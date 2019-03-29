@@ -1,0 +1,12 @@
+{
+    "branch": {
+        "router":{
+            "MER":{"name":"rtrMER01", "IP":"172.18.23.1", "loaction":"Mercantile", "status":"online"},
+            "PON":{"name":"rtrPON01", "IP":"172.18.139.1", "loaction":"Ponoka", "status":"online"}
+        }, 
+        "switch":{
+            "MER":{"name":"swtMER01", "IP":"172.18.23.2", "loaction":"Mercantile", "status":"online"},
+            "PON":{"name":"swtPON01", "IP":"172.18.139.2", "loaction":"Ponoka", "status":"online"}
+        }
+    }
+}
